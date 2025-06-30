@@ -1,0 +1,75 @@
+# 🏦 ParaBank Banking App Testing
+
+## 📄 Project Overview
+
+This project focuses on functional and negative testing of the ParaBank demo online banking application. The goal is to ensure that critical banking features work reliably and securely.
+
+---
+
+## 💡 Objectives
+
+- Validate key banking workflows such as login, account management, transactions, and profile updates.
+- Apply systematic test design techniques for thorough coverage.
+- Document clear and reusable test cases for each user story.
+
+---
+
+## ✅ Scope
+
+### Key User Stories Covered
+
+- User Login Functionality
+- Change Personal Information
+- View Account Balance
+- Open New Account
+- Transfer Funds with Validation
+- Logout Functionality
+- And more
+
+---
+
+## 🧰 Test Design Techniques
+
+- **Equivalence Partitioning (EP)**
+- **Boundary Value Analysis (BVA)**
+- **State Transition Testing (ST)**
+
+Each user story includes detailed test cases and tables summarizing EP and ST coverage where applicable.
+
+---
+
+## 📄 Deliverables
+
+- Detailed user stories and descriptions
+- Comprehensive test cases with preconditions, steps, and expected results
+- Test design technique documentation (EP, BVA, ST)
+- Test summary reports (PDFs per user story)
+
+---
+
+## 🛠️ Tools Used
+
+- **TestMonitor** for test management and tracking
+- **ParaBank demo application** (https://parabank.parasoft.com/parabank/index.htm)
+- Test design diagrams and supporting documentation
+
+---
+
+## 💬 Key Highlights
+
+- Covered both positive and negative test scenarios
+- Used structured techniques for thorough validation
+- Delivered clear, professional documentation to simulate real-world QA practices
+
+---
+
+## 🧑‍💻 Author
+
+**Jinson John**  
+[LinkedIn](https://www.linkedin.com/in/jinson-john13) • [Portfolio](https://www.jinsonjohn.com)
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates my ability to approach critical banking flows systematically, using industry-standard techniques and tools to ensure application quality and user safety.
