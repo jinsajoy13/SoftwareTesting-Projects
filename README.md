@@ -1,66 +1,68 @@
-# 🛒 E-commerce Website Testing Project
+# 💻 Software Testing Portfolio
 
-## 📄 Project Overview
+## 🎯 Overview
 
-This project focuses on manual testing of an E-commerce website to ensure that all major functionalities work smoothly and provide a user-friendly shopping experience. The objective was to verify end-to-end flows, identify bugs, and improve the overall product quality.
-
----
-
-## ✅ Features Tested
-
-- User registration & login
-- Product search and browsing
-- Product detail viewing
-- Shopping cart and wishlist functionality
-- Checkout and payment process
-- Order history and user profile management
+Welcome to my Software Testing Portfolio! This repository showcases three comprehensive projects I completed solo to demonstrate my skills in manual testing, API testing, and test management. Each project focuses on different domains and tools, highlighting my ability to adapt and ensure software quality across various applications.
 
 ---
 
-## 🧪 Test Approach
+## 🧪 Projects
 
-- **Manual Testing:** Test cases were manually created and executed to verify each core function.
-- **Bug Reporting:** All identified bugs were documented and tracked using Jira (with Xray plugin).
+### 1️⃣ E-commerce Website Testing
 
----
+**Description:**  
+Manual testing of a fully functional E-commerce website covering critical user journeys like registration, login, product browsing, cart management, and checkout.  
 
-## 📝 Test Artifacts
-
-- Detailed test cases for each functional area
-- Bug reports with clear descriptions, severity, and priority
-- Test summary reports highlighting results and overall system health
-
----
-
-## ⚙️ Tools & Technologies
-
-- Jira with Xray for test case management and bug tracking
-- Browsers: Chrome, Firefox
-- Platforms: Windows & Android
+**Highlights:**
+- Created detailed manual test cases
+- Documented and reported bugs using Jira with Xray
+- Delivered a test summary report to ensure a smooth shopping experience
 
 ---
 
-## 💡 Key Outcomes
+### 2️⃣ Banking App Testing (ParaBank)
 
-- Verified critical user journeys (sign-up, product purchase, order tracking)
-- Improved reliability and user experience by identifying and reporting bugs
-- Ensured all major workflows were functional before release
+**Description:**  
+Functional and negative testing of a demo online banking application (ParaBank). Focused on validating account management, transactions, and personal information update flows.  
+
+**Highlights:**
+- Applied test design techniques such as Equivalence Partitioning (EP), Boundary Value Analysis (BVA), and State Transition (ST)
+- Created user stories and mapped comprehensive test cases
+- Used detailed documentation and diagrams for each flow
 
 ---
 
-## 🙌 Author
+### 3️⃣ API Testing with Restful Booker
+
+**Description:**  
+API testing of Restful Booker to validate booking management features using Postman. Covered authentication, booking creation, update, retrieval, and deletion.  
+
+**Highlights:**
+- Designed user stories and corresponding test cases
+- Implemented negative test scenarios to validate error handling
+- Published Postman documentation link to showcase API testing workflows
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Jira with Xray** for test management and bug tracking
+- **Postman** for API testing
+- **Test design techniques:** EP, BVA, ST
+- **Browsers & Platforms:** Chrome, Firefox, Windows, Android
+
+---
+
+## 🧑‍💻 Author
 
 **Jinson John**  
-[LinkedIn](https://www.linkedin.com/in/jinson-john13) | [Portfolio](https://www.jinsonjohn.com)
-
----
-
+[LinkedIn](https://www.linkedin.com/in/jinson-john13) • [Portfolio](https://www.jinsonjohn.com)
 
 ---
 
 ## 🚀 Conclusion
 
-This project showcases hands-on manual testing skills, clear bug documentation, and an understanding of core E-commerce workflows, contributing to a smooth and reliable online shopping experience.
+This portfolio demonstrates my practical expertise in different software testing domains, from manual functional testing to structured API validations. It reflects my detail-oriented approach, ability to design robust test cases, and commitment to delivering high-quality results.
 
 ---
 
