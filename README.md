@@ -1,61 +1,66 @@
-# Software Testing Project Portfolio – Manual & API Testing
+# 🛒 E-commerce Website Testing Project
 
-Welcome to my QA Project Portfolio! This repository showcases hands-on projects I have completed as part of my learning and practice in Software Testing. 
-It includes real-world scenarios, structured documentation, and a focus on applying core QA techniques across different domains.
+## 📄 Project Overview
 
----
-
-## 📁 Projects Included
-
-### 1. E-commerce Testing  
-**Tools Used:** Jira with Xray  
-**Techniques:** Manual Testing, Test Design Techniques, Bug Reporting  
-**Overview:**  
-Simulated end-to-end testing of an E-commerce web application.  
-- User stories & test cases created using **Jira with Xray integration**  
-- Test coverage using Boundary Value Analysis and Equivalence Partitioning  
-- Bug reporting with evidence and traceability managed through Xray  
-
-### 2. Banking App Testing  
-**Tools Used:** TestMonitor  
-**Techniques:** BVA (2-value and 3-value), State Transition, EP  
-**Overview:**  
-Functional testing of a banking application using the [ParaBank Demo Site](https://parabank.parasoft.com/parabank/index.htm).  
-- 12 User stories and 36 Test cases with full test coverage  
-- Structured test documentation including test summary reports  
-- Included state diagrams and test suites across all modules  
-
-### 3. API Testing  
-Tools Used: Postman  
-Techniques: Positive & Negative API Testing, Token Authentication  
-**Overview:** 
-Tested the RESTful Booker API endpoints for booking, updating, deleting, and retrieving data.  
-- Token-based authentication flow  
-- JSON request/response validation  
-- Covered edge cases with negative tests and malformed input  
+This project focuses on manual testing of an E-commerce website to ensure that all major functionalities work smoothly and provide a user-friendly shopping experience. The objective was to verify end-to-end flows, identify bugs, and improve the overall product quality.
 
 ---
 
-## 📌 Skills Demonstrated
+## ✅ Features Tested
 
-- Manual Testing & Test Case Design  
-- Bug Reporting & Test Management Tools (Jira with Xray, TestMonitor)  
-- API Testing using Postman  
-- Requirement Analysis & Test Planning  
-- Test Design Techniques: BVA, EP, State Transition  
-- Realistic Project Simulation for Interview Readiness  
-
----
-
-## 🔗 Portfolio & Contact
-
-- Linkedin profile: www.linkedin.com/in/jinson-john13
-- Portfolio; www.jinsonjohn.com 
-- Email ID: jinsaaaaa@gmail.com
-
-Feel free to explore each folder to see documentation, test cases, and related artifacts for every project.
+- User registration & login
+- Product search and browsing
+- Product detail viewing
+- Shopping cart and wishlist functionality
+- Checkout and payment process
+- Order history and user profile management
 
 ---
 
-**🔍 Recruiters & Reviewers:**  
-This repository is structured to reflect my real-world understanding of QA workflows and practical testing methodologies. I’m open to entry-level roles and freelance Manual Testing opportunities.
+## 🧪 Test Approach
+
+- **Manual Testing:** Test cases were manually created and executed to verify each core function.
+- **Bug Reporting:** All identified bugs were documented and tracked using Jira (with Xray plugin).
+
+---
+
+## 📝 Test Artifacts
+
+- Detailed test cases for each functional area
+- Bug reports with clear descriptions, severity, and priority
+- Test summary reports highlighting results and overall system health
+
+---
+
+## ⚙️ Tools & Technologies
+
+- Jira with Xray for test case management and bug tracking
+- Browsers: Chrome, Firefox
+- Platforms: Windows & Android
+
+---
+
+## 💡 Key Outcomes
+
+- Verified critical user journeys (sign-up, product purchase, order tracking)
+- Improved reliability and user experience by identifying and reporting bugs
+- Ensured all major workflows were functional before release
+
+---
+
+## 🙌 Author
+
+**Jinson John**  
+[LinkedIn](https://www.linkedin.com/in/jinson-john13) | [Portfolio](https://www.jinsonjohn.com)
+
+---
+
+
+---
+
+## 🚀 Conclusion
+
+This project showcases hands-on manual testing skills, clear bug documentation, and an understanding of core E-commerce workflows, contributing to a smooth and reliable online shopping experience.
+
+---
+
